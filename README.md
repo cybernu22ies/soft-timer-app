@@ -14,7 +14,7 @@ https://dribbble.com/shots/11348868-Soft-UI-Countdown-Timer
 ![dark theme screen](https://github.com/RUD0MIR/soft-timer-app/assets/114794142/eeed0981-7cc5-42db-a73f-8c1c29827f35)
 
 
-## Implemented technologies:
+## Main used technologies:
 
 - Jetpack Compose
 - Lottie Animations
